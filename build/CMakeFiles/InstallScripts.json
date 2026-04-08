@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/cmake_install.cmake",
+		"/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

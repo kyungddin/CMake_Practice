@@ -1,0 +1,2 @@
+/mingw64/bin/ar.exe qc libshape.a CMakeFiles/shape.dir/shape.cpp.o
+/mingw64/bin/ranlib.exe libshape.a

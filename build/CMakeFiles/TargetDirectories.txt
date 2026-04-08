@@ -1,0 +1,6 @@
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/CMakeFiles/program.dir
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/CMakeFiles/edit_cache.dir
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/CMakeFiles/rebuild_cache.dir
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/lib/CMakeFiles/shape.dir
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/lib/CMakeFiles/edit_cache.dir
+/c/Users/kyungmin.kim/Desktop/github/CMake_Practice/build/lib/CMakeFiles/rebuild_cache.dir

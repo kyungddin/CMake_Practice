@@ -1,0 +1,1 @@
+/mingw64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/program.dir/main.cpp.o -o program.exe -Wl,--out-implib,libprogram.dll.a -Wl,--major-image-version,0,--minor-image-version,0  lib/libshape.a

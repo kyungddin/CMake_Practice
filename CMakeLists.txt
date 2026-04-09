@@ -8,10 +8,9 @@ project(
     DESCRIPTION "A simple CMake project"
     LANGUAGES CXX)
 
-add_subdirectory(lib)
+add_executable(program main.cpp) # 실행파일 생성
 
-add_executable(program main.cpp)
+add_subdirectory(lib) # 라이브러리 디렉토리 추가
+target_link_libraries(program shape) # 라이브러리 링크!
 
-target_link_libraries(program shape)
-
-target_compile_options(program PUBLIC -Wall)
+target_compile_options(program PUBLIC -Wall) 
